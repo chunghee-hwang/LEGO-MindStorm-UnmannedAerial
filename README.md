@@ -4,7 +4,7 @@ LEGO MindStorm과 LEJOS(Java)를 이용한 무인 사다리차 제작.
 
 ## Description
 
-##### 기능 목록
+##### 1. 기능 목록
 
 * 1. 라인트레이서
 * 2. RGB 센서를 사용한 기능 수행 장소 파악

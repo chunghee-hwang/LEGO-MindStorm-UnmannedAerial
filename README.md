@@ -104,14 +104,14 @@ LEGO MindStorm과 LEJOS(Java)를 이용한 무인 사다리차 제작.
 → **별도의 변수로 해결**
 ```ruby
 // 만약 멈추는 순간 차가 왼쪽으로 돌았다면
-			if (**leftOrRight** == -2)
+			if (leftOrRight == -2)
 			{
 				// 오른쪽 모터를 뒤로 20도 돌려서 다시 오른쪽으로 복귀
 				Motor.C.rotate(20);
 			}
 
 			// 만약 멈추는 순간 차가 오른쪽으로 돌았다면
-			else if (**leftOrRight** == 2)
+			else if (leftOrRight == 2)
 			{
 				// 왼쪽 모터를 뒤로 20도 돌려서 다시 왼쪽으로 복귀
 				Motor.A.rotate(20);

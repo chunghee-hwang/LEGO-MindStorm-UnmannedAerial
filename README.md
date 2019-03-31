@@ -124,5 +124,4 @@ LEGO MindStorm과 LEJOS(Java)를 이용한 무인 사다리차 제작.
 ```
 
 ###### 5. 시연 영상
-
-
+[![UnmannedAerial](http://img.youtube.com/vi/dy8vH2MP2no/0.jpg)](https://youtu.be/dy8vH2MP2no) UnmannedAerial
